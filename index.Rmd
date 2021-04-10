@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "PostGIS for Land Use Regression Models"
+author: "Zhenchun Yang"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
